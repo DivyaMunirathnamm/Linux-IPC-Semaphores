@@ -16,7 +16,7 @@ Write the C Program using Linux Process API - Sempahores
 
 ### Step 3:
 
-Execute the C Program for the desired output. 
+Execute the C Program for the desired output.
 
 # PROGRAM:
 
@@ -113,6 +113,8 @@ if(NUM_LOOPS>=10)    {
 
 ## OUTPUT
 $ ./sem.o 
+
+
 ![375199259-0e89cb05-ab9e-4674-86a0-9edbca8a2a3c](https://github.com/user-attachments/assets/0fe0dd1b-d8f3-41c6-ac1e-c0a95490bcfb)
 
 $ ipcs
